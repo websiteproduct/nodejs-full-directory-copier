@@ -1,3 +1,3 @@
-# node-template-project
+# node-full-directory-copier  
 
-## Стартовый шаблон node.js
+## Программа рекурсивно копирует все содержимое из sourceDir в targetDir
